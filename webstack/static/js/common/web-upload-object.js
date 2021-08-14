@@ -42,7 +42,7 @@
 				},
 				accept : {
 					title : 'Images',
-					extensions : 'gif,jpg,jpeg,bmp,png',
+					extensions : 'gif,jpg,jpeg,bmp,png,ico',
                     mimeTypes : 'image/gif,image/jpg,image/jpeg,image/bmp,image/png,image/ico'
 				},
 				swf : Feng.ctxPath
